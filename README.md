@@ -1,1 +1,1 @@
-# nbt-cdn.github.io
+Link: https://nbt-cdn.github.io
